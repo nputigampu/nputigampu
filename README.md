@@ -6,9 +6,9 @@ Fullstack developer
 
 I am a Fullstack web developer specialised on Frontend and React.
 
-* 🌍  I'm based in India , living in Frankfurt .
+* 🌍  I'm from India , living in Frankfurt,Germany .
 * ✉️  You can contact me at [nagalakshmi.putigampu@gmail.com](mailto:nagalakshmi.putigampu@gmail.com)
-* 🧠  I'm learning React
+* 🧠  I'm learning React, Node.Js, Express.Js, Redux, Socket.io
 
 <a href="https://www.twitter.com/Nagalakshmi Putigampu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Nagalakshmi Putigampu?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
